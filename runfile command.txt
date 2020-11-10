@@ -1,0 +1,5 @@
+npm run start:dev
+
+E:\node\complete-node-bootcamp-master\complete-node-bootcamp-master\4-natours\after-section-06>node .\dev-data\data\import-data-base.js --import
+
+npm run debug
